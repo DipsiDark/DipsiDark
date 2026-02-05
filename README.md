@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DipsiDark&show_icons=true&theme=dracula" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipsiDark&layout=compact&theme=dracula" height="170">
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/_luizin014_?igsh=MXRvMmo0b2J1OW92bA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
   </a>
