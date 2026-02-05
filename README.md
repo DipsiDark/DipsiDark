@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipsiDark&show_icons=true&theme=dracula" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipsiDark&layout=compact&theme=dracula" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=DipsiDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de DipsiDark" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipsiDark&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens de DipsiDark" height="180" />
 </div>
 
 <div align="center">
